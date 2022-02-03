@@ -4,8 +4,9 @@
 1. [AKS Core Concepts like Node Pools](https://docs.microsoft.com/en-us/azure/aks/concepts-clusters-workloads)
 2. [Using the Cluster Autoscaler in AKS](https://docs.microsoft.com/en-us/azure/aks/cluster-autoscaler)
 3. [Creating and Managing Multiple AKS Node Pools](https://docs.microsoft.com/en-us/azure/aks/use-multiple-node-pools)
-4. [Advanced Cluster Scheduling on AKS](https://docs.microsoft.com/en-us/azure/aks/operator-best-practices-advanced-scheduler)
-5. [az aks nodepool cli reference](https://docs.microsoft.com/en-us/cli/azure/aks/nodepool?view=azure-cli-latest#az_aks_nodepool_update)
+4. [Creating AKS Spot Node Pools](https://docs.microsoft.com/en-us/azure/aks/spot-node-pool)
+5. [Advanced Cluster Scheduling on AKS](https://docs.microsoft.com/en-us/azure/aks/operator-best-practices-advanced-scheduler)
+6. [az aks nodepool cli reference](https://docs.microsoft.com/en-us/cli/azure/aks/nodepool?view=azure-cli-latest#az_aks_nodepool_update)
 
 ## Prerequisites:
 1. Install az cli
