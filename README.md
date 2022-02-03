@@ -170,3 +170,8 @@ kubectl get events --sort-by=lastTimestamp --watch
 ```
 az group delete --resource-group $RG_NAME
 ```
+
+## Additional Concepts:
+
+1. [Start/Stop Node Pools](https://docs.microsoft.com/en-us/azure/aks/start-stop-nodepools)
+2. [Start/Stop AKS Clusters](https://docs.microsoft.com/en-us/azure/aks/start-stop-cluster?tabs=azure-cli)
